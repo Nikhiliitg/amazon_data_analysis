@@ -24,6 +24,11 @@ The project leverages the following tools and technologies:
 ![Project Pipeline](diagram-export-1-20-2025-11_33_54-PM.png)
 
 
+## ***You can see My Dashboard from Tableu Cloud***
+```https://prod-apnortheast-a.online.tableau.com/#/site/nikhiliitg07-7db9751398/workbooks/2785561/views?
+```
+
+
 
 ## **Workflow and Tools Used**
 
@@ -60,7 +65,7 @@ The project leverages the following tools and technologies:
    cable and accessories got highest rating among all of the items
 4. **Profitability**:
    - Subcategories with fewer discounts but high ratings maintained healthier profit margins.
-   
+
 ---
 
 ## **Steps to Reproduce**
