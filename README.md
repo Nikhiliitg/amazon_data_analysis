@@ -20,6 +20,11 @@ The project leverages the following tools and technologies:
 
 ---
 
+## **Project Pipeline**
+![Project Pipeline](diagram-export-1-20-2025-11_33_54-PM.png)
+
+
+
 ## **Workflow and Tools Used**
 
 ### **1. Data Collection and Preparation**
@@ -48,14 +53,14 @@ The project leverages the following tools and technologies:
 
 ## **Key Insights**
 1. **Revenue Distribution**:
-   - The "Computers & Accessories" category had the highest revenue, driven by "Cables" as a key subcategory.
+   - The "Electronics" category had the highest revenue, driven by "smartphoneandBasicMobile" as a key subcategory.
 2. **Impact of Discounts**:
-   - Products with discounts between 50-70% sold the most but showed lower revenue per unit.
+   - Computer and Accessories give the highest discount making it 2nd most selling produucts
 3. **Ratings and Sales**:
-   - High-rated products (above 4.5) attracted more customers and reviews.
+   cable and accessories got highest rating among all of the items
 4. **Profitability**:
    - Subcategories with fewer discounts but high ratings maintained healthier profit margins.
-
+   
 ---
 
 ## **Steps to Reproduce**
@@ -76,7 +81,7 @@ The project leverages the following tools and technologies:
 2. **Set Up S3 Bucket**:
    - Create an S3 bucket and upload the Kaggle dataset.
 
-3. **Data Preparation**:
+3. **Data Ingestion**:
    - Use the provided Python script to clean and preprocess the data.
    ```bash
    python3 amazon_analysis/src/data_ingestion.py
