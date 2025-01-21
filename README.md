@@ -40,4 +40,4 @@ This project demonstrates a complete data pipeline workflow, from data ingestion
 
 Below is the project pipeline that visualizes the entire workflow:
 
-![Projects Structure](.project_structure/diagram-export-1-20-2025-11_33_54-PM.png)
+![Projects Structure](diagram-export-1-20-2025-11_33_54-PM.png)
