@@ -71,9 +71,9 @@ Below is the project pipeline that visualizes the entire workflow:
 ### **2. Steps to Execute**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Nikhiliitg/amazon_data_analysis
+      git clone https://github.com/Nikhiliitg/amazon_data_analysis
 
-   cd project-directory
+      cd project-directory
 
 2. **Set Up S3 Bucket**:
   Create an S3 bucket and configure access permissions.
